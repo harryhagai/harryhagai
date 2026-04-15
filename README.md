@@ -1,5 +1,5 @@
 # HAGAI HAROLD NGOBEY
-**Full-Stack Developer | Software Engineer | Systems Deployment**
+**Full-Stack Developer | Software Engineer **
 
 ---
 
