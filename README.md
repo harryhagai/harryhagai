@@ -28,16 +28,9 @@ Highly skilled developer proficient in building robust web applications and mobi
 
 ---
 
-### Statistics
-![Hagai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true)
-
----
-
 ### Contact Information
 * **Email** | hngobey@gmail.com
 * **WhatsApp** | [+255 765 384 905](https://wa.me/255765384905)
 * **Phone** | +255 765 384 905
 * **Location** | Dar es Salaam, Tanzania
 
----
-*Precision in Logic. Excellence in Hosting.*
