@@ -3,8 +3,23 @@
 
 ---
 
-### Professional Profile
-Highly skilled developer proficient in building robust web applications and mobile solutions. Specialized in **Laravel** ecosystems and **Server Hosting** management. Dedicated to writing clean, maintainable code across multiple programming paradigms.
+## About Me
+
+<table>
+  <tr>
+    <td valign="center">
+      <p>
+        <b>I craft production-ready web applications</b><br>
+        Focused on Laravel and scalable systems with <b>clean architecture</b>, <b>performance</b>, and <b>maintainability</b>.<br><br>
+        Turning ideas into reliable digital solutions.<br>
+        Based in Dar es Salaam, Tanzania — building for the world.
+      </p>
+    </td>
+    <td>
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="coding"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -25,6 +40,17 @@ Highly skilled developer proficient in building robust web applications and mobi
 **Data & Infrastructure** ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) 
 ![Hosting](https://img.shields.io/badge/Hosting-Deployment-000000?style=flat-square&logo=serverfault&logoColor=white) 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+
+## Live Projects
+
+| Project | Description | URL |
+|--------|------------|-----|
+| Henry Gogarty School | School management system | https://henrygogarty.ac.tz/ |
+| EduVote | Online voting platform | https://eduvote.co.tz/ |
+| MyHostel | Hostel booking and management | https://myhostel.liveblog365.com/ |  
 
 ---
 
